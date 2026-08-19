@@ -1,0 +1,4 @@
+[submodule "edit-wonderland-ai"]
+	path = edit-wonderland-ai
+	url = https://github.com/leavy36/edit-wonderland-ai.git
+	branch = main
